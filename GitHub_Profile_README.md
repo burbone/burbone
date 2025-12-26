@@ -95,12 +95,6 @@ Spring WebSocket • Apache POI • Jackson • Lombok • Maven
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=burbone&show_icons=true&theme=default&hide_border=true)
-
----
-
 ## 🎓 Learning Journey
 
 **Self-Taught Developer (2023 - Present)**
