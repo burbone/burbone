@@ -146,6 +146,6 @@ I'm actively looking for **remote Java Developer positions** (Junior/Mid-level) 
 
 **⭐ If you find my projects interesting, feel free to star them!**
 
-*Last updated: December 2024*
+*Last updated: December 2025*
 
 </div>
