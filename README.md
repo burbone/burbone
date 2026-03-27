@@ -10,13 +10,13 @@
 
 ## 🚀 About Me
 
-I'm a **self-taught Java backend developer** passionate about building scalable, real-time applications. I specialize in **Spring Boot**, **REST APIs**, **WebSocket**, and **asynchronous programming**. Currently seeking **remote Junior/Mid-level Java Developer** positions.
+I'm a **self-taught Java backend developer** passionate about building scalable, real-time applications. I specialize in **Spring Boot**, **REST APIs**, **WebSocket**, and **asynchronous programming**. Currently seeking **remote Junior/Mid-level Java Developer** positions. Reaady for relocation.
 
 - 🔭 Working on: Real-time crypto arbitrage analysis platform
 - 🌱 Learning: Distributed systems, microservices architecture, Kafka
 - 💼 Open to: Remote-only positions (not open to relocation)
 - 📍 Location: Moscow, Russia
-- 🎂 Age: 21 years old
+- 🎂 Age: 22 years old
 
 ---
 
@@ -117,7 +117,7 @@ I've independently learned Java backend development through:
 
 ## 💬 Let's Connect!
 
-I'm actively looking for **remote Java Developer positions** (Junior/Mid-level) where I can contribute my skills and continue growing as a developer.
+I'm actively looking for **remote or relocate - Java Developer positions** (Junior/Mid-level) where I can contribute my skills and continue growing as a developer.
 
 **What I bring:**
 - Strong foundation in Spring Boot ecosystem
@@ -135,7 +135,7 @@ I'm actively looking for **remote Java Developer positions** (Junior/Mid-level) 
 
 ## 🌍 Work Preferences
 
-- **Work Type:** Remote only (not open to relocation)
+- **Work Type:** Remote only (open to relocation)
 - **Availability:** Immediately available for full-time positions
 - **Time Zone:** UTC+3 (Moscow)
 - **Languages:** Russian (Native), English (Professional Working Proficiency)
