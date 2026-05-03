@@ -135,7 +135,7 @@ I'm actively looking for **remote or relocate - Java Developer positions** (Juni
 
 ## 🌍 Work Preferences
 
-- **Work Type:** Remote only (open to relocation)
+- **Work Type:** Open to relocation
 - **Availability:** Immediately available for full-time positions
 - **Time Zone:** UTC+3 (Moscow)
 - **Languages:** Russian (Native), English (Professional Working Proficiency)
