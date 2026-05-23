@@ -12,7 +12,6 @@
 
 I'm a **self-taught Java backend developer** passionate about building scalable, real-time applications. I specialize in **Spring Boot**, **REST APIs**, **WebSocket**, and **asynchronous programming**. Currently seeking **remote Junior/Mid-level Java Developer** positions. Reaady for relocation.
 
-- 🔭 Working on: Real-time crypto arbitrage analysis platform
 - 🌱 Learning: Distributed systems, microservices architecture, Kafka
 - 💼 Open to: Remote-only positions (not open to relocation)
 - 📍 Location: Moscow, Russia
@@ -86,14 +85,6 @@ A real-time web application for analyzing cryptocurrency arbitrage opportunities
 Java 21 • Spring Boot 3.5.5 • Spring Web • Spring WebFlux
 Spring WebSocket • Apache POI • Jackson • Lombok • Maven
 ```
-
-**📊 Project Stats:**
-- **Languages:** Java (77.8%), JavaScript (11.4%), CSS (6.6%), HTML (4.2%)
-- **Lines of Code:** ~2000+ (backend)
-- **API Integrations:** 5 exchanges
-- **Concurrent Processing:** Up to 8 threads
-
----
 
 ## 🎓 Learning Journey
 
